@@ -8,9 +8,6 @@
 
 ## 🎥 Coding Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
 
 ---
 
@@ -33,8 +30,6 @@
 - JavaFX  
 - MySQL  
 
-🔗 https://github.com/YOUR_USERNAME/gym-management
-
 ---
 
 ### 🚕 Taxi Booking System
@@ -42,10 +37,8 @@
 
 **Tech Stack:**
 - Python  
-- File Handling / Database  
-
-🔗 https://github.com/YOUR_USERNAME/taxi-booking
-
+- File Handling / Database
+- 
 ---
 
 ### 🤖 Voice Assistant
@@ -53,10 +46,8 @@
 
 **Tech Stack:**
 - Python  
-- Speech Recognition  
-
-🔗 https://github.com/YOUR_USERNAME/voice-assistant
-
+- Speech Recognition
+- 
 ---
 
 ## 🛠️ Tech Stack
