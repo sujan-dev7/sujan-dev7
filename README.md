@@ -1,83 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sujan Shrestha</h1>
+# Hey, I'm sujan-dev7 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Java+Developer;Python+Programmer;Learning+OOP+and+System+Design;Future+Computer+Science+Student&center=true&width=500&height=50">
-</p>
+A student passionate about building things. Currently exploring **Python**, **Web Development**, and **Artificial Intelligence**.
 
 ---
 
-## 🎥 Coding Vibes
+## 🎯 What I Do
 
+- 🔨 Build side projects with Python & modern web frameworks
+- 🤖 Explore AI/ML concepts and applications
+- 💻 Write clean, maintainable code
+- 📚 Learn by doing
 
----
-
-## 👨‍💻 About Me
-
-🎓 Science student passionate about **Computer Science**  
-💻 Currently learning **Java, Python, SQL, and Software Development**  
-🏗️ Building real-world projects to improve my skills  
-🚀 Focused on becoming a **Full Stack Developer**
-
----
-
-## 🚀 Featured Projects
-
-### 🏋️ Gym Equipment Management System
-💡 JavaFX desktop system for managing gym equipment efficiently  
-
-**Tech Stack:**
-- Java  
-- JavaFX  
-- MySQL  
-
----
-
-### 🚕 Taxi Booking System
-💡 Python-based system for booking and managing rides  
-
-**Tech Stack:**
-- Python  
-- File Handling / Database
-- 
----
-
-### 🤖 Voice Assistant
-💡 AI-based assistant capable of performing basic tasks  
-
-**Tech Stack:**
-- Python  
-- Speech Recognition
-- 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github" />
-</p>
+```
+Languages:    Python, JavaScript, SQL
+Web:          Flask, Django, HTML, CSS
+AI/ML:        Machine Learning, Data Science
+Tools:        Git, GitHub, VS Code
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+### 🏋️ Gym Equipment Management System
+*JavaFX desktop system for managing gym equipment efficiently*
+- **Tech:** Java, JavaFX, MySQL
 
----
+### 🚕 Taxi Booking System
+*Python-based system for booking and managing rides*
+- **Tech:** Python, Database
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+### 🤖 Voice Assistant
+*AI-based assistant capable of performing basic tasks*
+- **Tech:** Python, Speech Recognition
 
 ---
 
-⭐ *Open to learning, collaboration, and opportunities!*
+## 🚀 Current Focus
+
+- Building practical side projects
+- Understanding AI fundamentals
+- Full-stack web development
+- Contributing to my growth as a developer
+
+---
+
+## ✨ Open Source & Collaboration
+
+I'm always open to:
+- Collaborating on projects
+- Contributing to open source
+- Learning from the community
+- Building something awesome together
+
+---
+
+*Let's create something amazing! Feel free to explore my repositories below.* 🌟
