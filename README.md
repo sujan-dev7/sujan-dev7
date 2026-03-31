@@ -1,4 +1,4 @@
-# Hey, I'm sujan-dev7 👋
+# Hey, I'm Sujan 👋
 
 A student passionate about building things. Currently exploring **Python**, **Web Development**, and **Artificial Intelligence**.
 
@@ -17,8 +17,7 @@ A student passionate about building things. Currently exploring **Python**, **We
 
 ```
 Languages:    Python, JavaScript, SQL
-Web:          Flask, Django, HTML, CSS
-AI/ML:        Machine Learning, Data Science
+Web:          HTML, CSS 
 Tools:        Git, GitHub, VS Code
 ```
 
